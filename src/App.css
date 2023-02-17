@@ -1,0 +1,109 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    background-color: #c98282;
+}
+
+.link {
+    text-decoration: none;
+    padding-left: 5vh;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 3vh;
+}
+
+li{
+    padding-top: 30px;
+    margin-left: 100vh;
+    list-style: none;
+    padding-bottom: 12px;
+}
+
+
+.h4 {
+    font-weight: bold;
+    font-size: 4vh;
+    padding-left: 2vh;
+    padding-top: 2vh;
+}
+
+.link:hover{
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+    background-color: yellow;
+    width: 20%;
+    text-align: center;
+    padding: 1vh;
+    border-radius: 0 70px 5px 70px;
+
+}
+
+input {
+    padding: 1vh;
+    border-radius: 0 10px 5px 10px;
+    width: 30%;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    background-color: #f1c40f;
+    padding-bottom: 15vh;
+    padding-top: 15vh;
+}
+
+.img img {
+    width: 50vh;
+    margin-left: 2vh;
+    border-radius: 50px;
+
+}
+
+.drk {
+    border-radius: 40px;
+
+    padding-right: -2px;
+    background-color: #2d3436;
+
+}
+
+.divo {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+
+}
+
+.h3 {
+    padding-left: 82vh;
+    font-size: 32px;
+    background-color: yellow;
+}
+
+h3{
+    padding-left: 82vh;
+    font-size: 32px;
+    background-color: yellow;
+}
+
+p{
+    padding-left: 62vh;
+    font-size: 20px;
+}
+
+.link2{
+    text-decoration: none;
+    color: rgb(13, 56, 247);
+    padding-left: 88vh;
+    font-size: 22px;
+}
+
+.link2:hover{
+    color: black;
+}
